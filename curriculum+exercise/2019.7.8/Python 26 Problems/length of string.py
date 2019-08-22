@@ -1,0 +1,9 @@
+s=input()
+a=int(input())
+a1=len(s)
+if(a==a1):
+    print('False\nTrue\nTrue\nFalse')
+elif(a1>a):
+    print('True\nTrue\nFalse\nTrue')
+else:
+    print('False\nFalse\nFalse\nTrue')

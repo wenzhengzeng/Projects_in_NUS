@@ -1,0 +1,31 @@
+Stock: 	OCBC Bank	Market Value:	32,993,891
+Stock: 	Ascendas Reit	Market Value:	6,245,997.50
+Stock: 	CapitaLand	Market Value:	14,339,453
+Stock: 	CapitaMall Trust	Market Value:	10,677,863.60
+Stock: 	CityDev	Market Value:	10,562,490
+Stock: 	ComfortDelGro	Market Value:	11,225,389
+Stock: 	DBS	Market Value:	80,860,990
+Stock: 	Genting Sing	Market Value:	23,447,047
+Stock: 	Golden Agri-Res	Market Value:	866,624.50
+Stock: 	HongkongLand USD	Market Value:	2,951,162
+Stock: 	HPH Trust USD	Market Value:	5,028,804.50
+Stock: 	Jardine C&C	Market Value:	2,462,513
+Stock: 	JMH USD	Market Value:	4,810,851
+Stock: 	JSH USD	Market Value:	3,136,015
+Stock: 	Keppel Corp	Market Value:	22,923,951
+Stock: 	CapitaCom Trust	Market Value:	12,568,100
+Stock: 	SATS	Market Value:	3,782,204
+Stock: 	Sembcorp Ind	Market Value:	8,244,786
+Stock: 	SGX	Market Value:	6,948,203
+Stock: 	SIA	Market Value:	4,726,874
+Stock: 	SingTel	Market Value:	37,194,598
+Stock: 	SPH	Market Value:	2,809,424
+Stock: 	ST Engineering	Market Value:	8,198,752
+Stock: 	StarHub	Market Value:	11,191,367
+Stock: 	ThaiBev	Market Value:	5,522,935.40
+Stock: 	UOB	Market Value:	34,787,502
+Stock: 	UOL	Market Value:	5,204,928
+Stock: 	Venture	Market Value:	19,224,610
+Stock: 	Wilmar Intl	Market Value:	10,100,631
+Stock: 	YZJ Shipbldg SGD	Market Value:	16,505,420
+Total Value of 30 STI Stocks: 	$419543376.5

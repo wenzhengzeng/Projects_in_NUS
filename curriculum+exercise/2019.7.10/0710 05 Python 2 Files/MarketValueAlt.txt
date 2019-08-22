@@ -1,0 +1,32 @@
+Stock               Market Value        
+OCBC Bank            32,993,891
+         Ascendas Reit        6,245,997.50
+       CapitaLand           14,339,453
+         CapitaMall Trust     10,677,863.60
+      CityDev              10,562,490
+         ComfortDelGro        11,225,389
+         DBS                  80,860,990
+         Genting Sing         23,447,047
+         Golden Agri-Res      866,624.50
+         HongkongLand USD     2,951,162
+          HPH Trust USD        5,028,804.50
+       Jardine C&C          2,462,513
+          JMH USD              4,810,851
+          JSH USD              3,136,015
+          Keppel Corp          22,923,951
+         CapitaCom Trust      12,568,100
+         SATS                 3,782,204
+          Sembcorp Ind         8,244,786
+          SGX                  6,948,203
+          SIA                  4,726,874
+          SingTel              37,194,598
+         SPH                  2,809,424
+          ST Engineering       8,198,752
+          StarHub              11,191,367
+         ThaiBev              5,522,935.40
+       UOB                  34,787,502
+         UOL                  5,204,928
+          Venture              19,224,610
+         Wilmar Intl          10,100,631
+         YZJ Shipbldg SGD     16,505,420
+         Total                $ 419,543,376
